@@ -16,7 +16,7 @@
  * @filesource SeoReport.php
  * @category SEO
  * @version v1.1
- * @author Kishor Mali
+ * @author siddharth arora
  * This class is used to get the Simple SEO report of the website
  */
 class SeoReport{
